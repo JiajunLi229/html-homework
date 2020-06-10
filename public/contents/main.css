@@ -3,7 +3,12 @@
 }
 #features {
     width: 980px;
-    margin: 0 auto 0 auto;   
+    margin: 0 auto 0 auto;
+       
+}
+
+#features li{
+    list-style: none;
 }
 
 #features h2 {
