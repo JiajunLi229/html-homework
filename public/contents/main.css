@@ -28,6 +28,10 @@
     color: hsla(0,0%,100%,.75);
     width: 300px;
     height: 37px;
+    border-bottom-style: none;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
 }
 #feature-for-top-container a {
     color: #fff;
