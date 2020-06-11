@@ -32,6 +32,7 @@
     border-top-style: none;
     border-left-style: none;
     border-right-style: none;
+    margin: 0 16px 0 0;
 }
 #feature-for-top-container a {
     color: #fff;
@@ -40,6 +41,20 @@
     margin: 0 16px 0 0;
     text-decoration: none;
 }
+
+#feature-for-top-container a {
+    color: #fff;
+    width: 109.783px;
+    height: 24px;
+    margin: 0 16px 0 0;
+    text-decoration: none;
+}
+
+#Sign-up-border {
+    border: 1px solid #e1e4e8;
+    padding: 4px 8px 4px 8px;
+}
+
 #features {
     width: 980px;
     margin: 0 auto 0 auto;
