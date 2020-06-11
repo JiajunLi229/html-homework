@@ -23,6 +23,10 @@
 #feature-for-top-container img {
     margin: 0 16px 0 0;
 }
+#feature-for-top-container input {
+    background-color: #6a737d;
+    color: hsla(0,0%,100%,.75);
+}
 #feature-for-top-container a {
     color: #fff;
     width: 109.783px;
