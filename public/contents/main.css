@@ -103,7 +103,20 @@
     text-align: center;
     border: 1px solid #e1e4e8;
     box-sizing: border-box;
+    margin: 0 auto 24px auto;
 }
+
+#second-part retangle {
+    border-right: 1px solid #e1e4e8;
+    width: 33.33333%;
+    
+}
+
+#second-part textbox {
+    padding: 40px 16px 40px 16px;
+    
+}
+
 
 
 
