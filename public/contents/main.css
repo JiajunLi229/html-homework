@@ -24,8 +24,10 @@
     margin: 0 16px 0 0;
 }
 #feature-for-top-container input {
-    background-color: #6a737d;
+    background-color: #3F4448;
     color: hsla(0,0%,100%,.75);
+    width: 300px;
+    height: 37px;
 }
 #feature-for-top-container a {
     color: #fff;
