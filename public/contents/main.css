@@ -9,9 +9,23 @@
     background-color:#24292e;
     overflow: hidden
 }
+#feature-for-top-container div {
+    display: flex;
+    padding: 0 16px 0 16px;
+    max-width: 1280px;
+    margin: 0 auto 0 auto;
+    align-items: center；
+}
 #feature-for-top-container li {
     float: left;
     padding: 16px 0 16px 0;
+}
+#feature-for-top-container a {
+    color: #fff;
+    width: 109.783px;
+    height: 24px;
+    margin: 0 16px 0 0;
+    text-decoration: none;
 }
 #features {
     width: 980px;
