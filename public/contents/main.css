@@ -9,6 +9,7 @@
     background-color:#24292e;
     overflow: hidden
 }
+
 #feature-for-top-container make-elements-center {
     display: flex;
     padding: 0 16px 0 16px;
@@ -16,13 +17,16 @@
     margin: 0 auto 0 auto;
     justify-content: space-between;
 }
+
 #feature-for-top-container li {
     float: left;
     padding: 16px 0 16px 0;
 }
+
 #feature-for-top-container img {
     margin: 0 16px 0 0;
 }
+
 #feature-for-top-container input {
     background-color: #3F4448;
     color: hsla(0,0%,100%,.75);
@@ -34,6 +38,7 @@
     border-right-style: none;
     margin: 0 16px 0 0;
 }
+
 #feature-for-top-container a {
     color: #fff;
     width: 109.783px;
@@ -89,6 +94,14 @@
     font-weight: 300;
     font-size: 48px;
     line-height: 1.25;
+    margin: 80px 0 24px 0;
+}
+
+#first-part p{
+    font-size: 20px;
+    line-height: 30px;
+    width: 653.333px;
+    
 }
 
 
