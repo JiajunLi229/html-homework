@@ -20,6 +20,9 @@
     float: left;
     padding: 16px 0 16px 0;
 }
+#feature-for-top-container img {
+    margin: 0 16px 0 0;
+}
 #feature-for-top-container a {
     color: #fff;
     width: 109.783px;
